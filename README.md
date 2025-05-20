@@ -1,16 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Mariot</h1>
 <h3 align="center">Analista de Dados | Projetos Analíticos</h3>
 
----
-
-- 🔭 Atualmente estou trabalhando em [Projeto X](link)
-- 🌱 Estudando: Python, Dash, Flask, SQL
-- 💼 Experiência: [Resumo profissional aqui]
-- 📫 Como me encontrar: [email, LinkedIn, site pessoal]
-- ⚡ Curiosidade: [Algo interessante sobre você]
-
----
-
 ## 🚀 Minhas Skills
 
 **Linguagens e Ferramentas:**
