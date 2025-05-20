@@ -27,15 +27,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emariot&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emariot&layout=compact&langs_count=7&theme=default"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
-[![Gmail](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:seu@email.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardo-mariot/)
+[![Gmail](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:eduardo.mariot@gmail.com)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-05122A?style=flat&logo=github)](https://seuportfolio.com)
 
