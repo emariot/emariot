@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Mariot</h1>
-<h3 align="center">Desenvolvedor | Analista de Dados | Criador de Projetos Analíticos</h3>
+<h3 align="center">Analista de Dados | Projetos Analíticos</h3>
 
 ---
 
@@ -21,15 +21,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emariot&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emariot&layout=compact&langs_count=7&theme=default"/>
-</p>
 
 ---
 
