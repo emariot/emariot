@@ -18,5 +18,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardo-mariot/)
 [![Gmail](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:eduardo.mariot@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-05122A?style=flat&logo=github)]([https://seuportfolio.com](https://synapsi-portfolio.notion.site/Synapsi-Central-de-Projetos-Anal-ticos-1f74cefdea658062bb96feecf1e3339a?pvs=74))
+[![Portfólio](https://img.shields.io/badge/-Portfólio-05122A?style=flat&logo=notion&logoColor=white)](https://synapsi-portfolio.notion.site/Synapsi-Central-de-Projetos-Anal-ticos-1f74cefdea658062bb96feecf1e3339a?pvs=74)
 
