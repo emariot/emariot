@@ -7,8 +7,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
 ![Dash](https://img.shields.io/badge/-Dash-05122A?style=flat&logo=plotly)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
