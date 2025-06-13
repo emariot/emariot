@@ -5,12 +5,14 @@
 
 **Linguagens e Ferramentas:**
 
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
 ![Dash](https://img.shields.io/badge/-Dash-05122A?style=flat&logo=plotly)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
+
+
 
 ---
 
