@@ -10,7 +10,7 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
 ![Dash](https://img.shields.io/badge/-Dash-05122A?style=flat&logo=plotly)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
 
 ---
 
